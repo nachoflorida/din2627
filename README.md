@@ -1,4 +1,6 @@
-# breve_repaso_github
-En este repositorio haremos una serie de pruebas iniciales para trabajar con Git/GitHub.
-
 # Nacho Muñoz Rodríguez
+
+Cosas que nos gustaría conseguir al finalizar el ciclo/curso
+- Aprobar la asignatura
+- Aprender a diseñar interfaces de aplicaciones móviles
+- Aprender a programar interfaces de aplicaciones móviles
