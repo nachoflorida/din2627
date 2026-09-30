@@ -7,3 +7,5 @@ Cosas que nos gustaría conseguir al finalizar el ciclo/curso
 
 
 ![Logo de GitHub](/github_logo.png "Logo de GitHub")
+
+Texto añadido desde la rama funcionalidad1
