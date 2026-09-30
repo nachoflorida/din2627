@@ -5,3 +5,5 @@ Este fichero servirá para que podáis actualizar vuestros repositorios locales 
 * Añadimos esta línea para generar un conflicto
 
 Archivo modificado por: Nacho
+
+Texto añadido desde la rama funcionalidad1
